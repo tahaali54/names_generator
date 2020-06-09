@@ -1,16 +1,12 @@
-# names_generator
+# Names Generator
+## VD Flutter Training - Session 5
 
-A new Flutter project.
+This app extends the *names_generator* app built in Flutter [getting started tutorial](https://flutter.dev/docs/get-started/codelab) and adds local storage to it for persisting favorite names list between sessions.
 
-## Getting Started
+### Description
 
-This project is a starting point for a Flutter application.
+Uses *path_provider* plugin for local file storage.
 
-A few resources to get you started if this is your first Flutter project:
+## Application
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<img src="images/screenshot.png" height="400"/>
